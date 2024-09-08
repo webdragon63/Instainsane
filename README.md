@@ -5,7 +5,8 @@ Instainsane is an Shell Script to perform multi-threaded brute force attack agai
 ## Legal disclaimer:
 Usage of InstaInsane for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![insane](https://user-images.githubusercontent.com/34893261/38772658-97646698-4012-11e8-9b5e-65596e70a5ff.png)
+![Screenshot at 2024-09-08 18-30-35](https://github.com/user-attachments/assets/1e9a5a9b-3813-449a-8609-b4457550c258)
+
 
 ### Features
 - Multi-thread (100 attempts at once)
