@@ -8,7 +8,8 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 ![Screenshot at 2024-09-08 18-30-35](https://github.com/user-attachments/assets/1e9a5a9b-3813-449a-8609-b4457550c258)
 ## After finding a password
 ![Screenshot at 2024-09-08 20-49-48](https://github.com/user-attachments/assets/c0f4c255-8053-4a27-bb11-7e413940c22a)
-
+# NOTE
+There is a bug in the script and sometimes when it finds the password it won't stop the process, so you will see more and more passwords being tested. The script pauses for a few seconds automatically every 100 guesses, so keep an eye out for the password.
 ### Features
 - Multi-thread (100 attempts at once)
 - Save/Resume sessions
@@ -35,4 +36,5 @@ sudo bash instainsane.sh
 ### How it works?
 
 Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking. 
-The script uses Instagram-py algorithm (Python).
+The script uses Instagram-py algorithm (Python). 
+
