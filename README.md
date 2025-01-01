@@ -21,7 +21,7 @@ There is a bug in the script and sometimes when it finds the password it won't s
 ### Installation:
 ```
 git clone https://github.com/webdragon63/Instainsane
-cd instainsane
+cd Instainsane
 ```
 ### Usage 
 ```
